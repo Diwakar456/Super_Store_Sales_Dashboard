@@ -19,6 +19,3 @@ Sales leadership required a centralized dashboard to monitor revenue trends, cat
 - Enabled faster sales performance reviews
 - Improved visibility into growth drivers and underperforming areas
 - Supported data-driven strategic decisions
-
-## 📷 Dashboard Preview
-(Add screenshots of your Power BI dashboard here)
